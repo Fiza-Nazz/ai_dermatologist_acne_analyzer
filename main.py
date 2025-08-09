@@ -32,7 +32,7 @@ with st.sidebar:
     provide **probable causes, care steps, food advice, and red flags**.  
     """)
     st.markdown("---")
-    st.write("**Made with ❤️ by Chikki & You**")
+    st.write("**Made with ❤️ by Fiza**")
 
 # File Upload
 uploaded = st.file_uploader("📤 Upload acne/pimple photo", type=["jpg", "jpeg", "png"])
